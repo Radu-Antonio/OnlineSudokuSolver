@@ -10,4 +10,4 @@ And to install the chromedriver from [here](https://googlechromelabs.github.io/c
 
 Now just run the script and watch it solve 😎.
 
-https://github.com/Radu-Antonio/OnlineSudokuSolver/assets/93879460/e9b24505-9821-4ed5-b883-b1d54e001cea
+![sudoku](https://github.com/Radu-Antonio/OnlineSudokuSolver/assets/93879460/2b43b741-6127-4cae-abc3-e99f4caacd25)
