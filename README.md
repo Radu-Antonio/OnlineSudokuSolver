@@ -9,3 +9,5 @@ pip install selenium
 And to install the chromedriver from [here](https://googlechromelabs.github.io/chrome-for-testing/#stable) for your respective OS, in to the C drive.
 
 Now just run the script and watch it solve 😎.
+
+https://github.com/Radu-Antonio/OnlineSudokuSolver/assets/93879460/e9b24505-9821-4ed5-b883-b1d54e001cea
